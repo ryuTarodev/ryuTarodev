@@ -5,7 +5,7 @@ B.Sc.IT student in KMUTT
 ------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning JAVA
+* 🧠  I'm learning JAVA , Kotlin
 
 ### Skills
 
